@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+div{
+	border-style: double;
+	padding : 10px;
+	margin : 10px;
+	
+	
+}
+.table1 th {
+	border-style: double;
+	padding : 10px;
+	margin : 10 px;
+	background : red
+	
+}
+.table1 td {
+	border-style: double;
+	padding : 10px;
+	margin : 10 px;
+	background : yellow
+	
+}
+.in{
+	
+	border-width:0px;
+border:none;
+outline:none;
+}

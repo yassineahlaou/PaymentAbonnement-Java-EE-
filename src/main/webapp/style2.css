@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+.wel {
+	text-align : center;
+	margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+	
+}
+.tit{
+	font-size: 150%;
+	color : red;
+	padding-bottom : 1cm;
+	
+}
+.div1{
+	font-size: 120%;
+	padding-bottom : 1cm;
+}
+a{
+	text-decoration: none;
+	
+}
+button{
+	background-color: yellow;
+}
